@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bipin-mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bipin-mv" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bipinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bipinmv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bipinmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bipinmv" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bipinmv23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bipinmv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bipinmv23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bipinmv23" height="30" width="40" /></a>
 </p>
 
