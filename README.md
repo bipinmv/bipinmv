@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Bipin</h1>
+<h2>Hi there 👋</h2>
 <h3>A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipinmv&label=Profile%20views&color=0e75b6&style=flat" alt="bipinmv" /> </p>
