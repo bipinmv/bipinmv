@@ -4,7 +4,7 @@
 
 </br>
 
-## 💻 Languages and tools that I use
+## 💻 Languages and Tools that I use
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> 
@@ -23,6 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%20?style=for-the-badge&logo=postgresql&logoColor=white&color=%23007ACC" alt="postgres" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
