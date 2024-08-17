@@ -9,9 +9,9 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> 
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/jest-1?style=for-the-badge&logo=jest&color=%23DF162B" alt="Jest" />
+  <img src="https://img.shields.io/badge/jest-1?style=for-the-badge&logo=jest&color=%23AC3E5A" alt="Jest" />
   <img src="https://img.shields.io/badge/HTML5-ED9526?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-3?style=for-the-badge&logo=css3" alt="CSS" /> 
+  <img src="https://img.shields.io/badge/CSS-1?style=for-the-badge&logo=css3&color=%232060AB" alt="CSS" /> 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /> 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
