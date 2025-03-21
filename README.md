@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there 👋, I'm <a href="https://bipinmv.netlify.app/">Bipin</a></h1>
+  <h1 align="left">Hi there 👋, I'm <a href="https://bipinmv.netlify.app/">Bipin</a></h1>
 </p>
 
 </br>
